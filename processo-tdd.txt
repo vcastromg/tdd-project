@@ -1,0 +1,10 @@
+O processo deve ser feito pouco a pouco.
+
+Pode-se começar por um teste funcional.
+Se o teste passa, verifica-se a necessidade de refatoração e deve-se trabalhar com testes de unidade para que as alterações sejam mínimas.
+Se o teste não passa, da mesma forma, deve-se trabalhar com testes de unidade.
+
+Ao escrever um teste de unidade:
+Se o teste passa, verifica-se a necessidade de refatoração e uma pequena alteração deve ser feita.
+Se o teste não passa, deve-se escrever o mínimo possível de código para resolução, e testar novamente.
+

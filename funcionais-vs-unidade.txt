@@ -1,0 +1,1 @@
+Testes de unidade são escritos para serem executados com mais frequência do que os funcionais. Além disso, os de unidade não utilizam a interface do usuário, diferente dos funcionais.
